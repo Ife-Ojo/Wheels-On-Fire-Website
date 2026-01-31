@@ -4,7 +4,7 @@ Wheels On Fire is a responsive car collection website built to showcase my knowl
 This project was created as part of my Web Development module and focuses on clean design, responsiveness, and interactive user experience.
 
 Wheels On Fire is a fictional company, and the website was developed based on project requirements set for the module.
-The site is hosted <a href = "https://wheelsonfire-ifeojo.app/">here </a>, and all files used in the development of the project are shown above.
+The site is hosted <a href = "https://wheelsonfire-ifeojo.app/">here</a> , and all files used in the development of the project are shown above.
 
 # 🛠️ Technologies
 
