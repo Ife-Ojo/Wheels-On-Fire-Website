@@ -62,6 +62,12 @@ Possible future enhancements include:
 
 .  A user login system
 
+# 🍿 Preview
+
+<img width="2214" height="1143" alt="Screenshot 2026-01-31 215117" src="https://github.com/user-attachments/assets/ee53b7b2-de88-4449-8f06-241d3faeb7ba" />
+
+
+
 .  An expanded car gallery with more categories
 
 .  Additional interactive features to further enhance user engagement
